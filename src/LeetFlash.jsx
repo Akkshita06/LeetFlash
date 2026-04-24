@@ -40,8 +40,8 @@ Focus on:
 
 // ─── Supabase Client (plug in your project URL + anon key) ───────────────────
 // Replace these with your actual Supabase credentials
-const SUPABASE_URL  = "https://YOUR_PROJECT.supabase.co";
-const SUPABASE_ANON = "YOUR_ANON_KEY";
+const SUPABASE_URL  = "https://kdxlebrsekwbvdkiydkb.supabase.co";
+const SUPABASE_ANON = "sb_publishable_-pWArgSet5tBvEJ2tDVfsA_WbSYrIvN";
 
 const supabase = {
   _headers() {
